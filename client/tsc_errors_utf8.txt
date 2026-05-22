@@ -1,0 +1,9 @@
+﻿app/doctor/settings/page.tsx(71,21): error TS2339: Property 'phone' does not exist on type 'User'.
+app/doctor/settings/page.tsx(72,30): error TS2339: Property 'specialization' does not exist on type 'User'.
+app/doctor/settings/page.tsx(73,26): error TS2339: Property 'experience' does not exist on type 'User'.
+app/doctor/settings/page.tsx(74,29): error TS2339: Property 'licenseNumber' does not exist on type 'User'.
+app/doctor/settings/page.tsx(75,24): error TS2339: Property 'hospital' does not exist on type 'User'.
+app/doctor/settings/page.tsx(76,23): error TS2339: Property 'address' does not exist on type 'User'.
+app/doctor/settings/page.tsx(77,19): error TS2339: Property 'bio' does not exist on type 'User'.
+app/doctor/settings/page.tsx(78,31): error TS2339: Property 'consultationFee' does not exist on type 'User'.
+components/ReportsContent.tsx(87,46): error TS2339: Property 'getLogs' does not exist on type '{ getProfile: () => Promise<User>; getDoctors: () => Promise<{ doctors: User[]; }>; getMyPatients: () => Promise<{ patients: User[]; }>; updateProfile: (updates: Partial<...>) => Promise<...>; uploadAvatar: (file: File) => Promise<...>; deleteAccount: () => Promise<...>; }'.

@@ -1,0 +1,4 @@
+Users:
+- Name: Dr Gopika, Email: gobikakandasamy9@gmail.com, Role: doctor
+- Name: 23ADR048, Email: gopikak.23aid@kongu.edu, Role: user
+- Name: aswathy, Email: aswathys.23aid@kongu.edu, Role: user
